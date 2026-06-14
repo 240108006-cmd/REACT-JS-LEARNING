@@ -153,7 +153,7 @@ xhr.send()
 async function fetching(){
     try{
         let response = await fetch('https://api.github.com/users/hiteshchoudhary')
-        let actualresponse = response.json()
+        let actualresponse = await response.json()
         console.log(actualresponse)
     }
     catch(msggg){

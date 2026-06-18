@@ -1,0 +1,51 @@
+#header{
+    height: 50px;
+    width: 1000px;
+    border: 5px solid white;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+}
+#a3{
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+a{
+    margin-right: 120px;
+}
+button{
+    background-color: orange;
+    color: white;
+}
+.main{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+}
+#main1{
+    background-color: rgba(255, 0, 0, 1);
+    display: inline-block;
+    text-align: center;
+}
+#main2{
+    background-color: rgba(0, 255, 0, 1);
+    display: inline-block;
+    text-align: center;
+}
+#main3{
+    background-color: rgba(0, 0, 255, 1);
+    display: inline-block;
+    text-align: center;
+}
+main{
+    height: 500px;
+    border: 2px solid black;
+    background-color: grey;
+}
+div{
+    margin-right: 40px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}

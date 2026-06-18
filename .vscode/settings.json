@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "PRACTICE.C": "cpp",
+        "FORLOOP.C": "cpp",
+        "IMPORTANTQUES2.C": "cpp",
+        "WHILE.C": "cpp",
+        "functional": "c",
+        "FUNCTI.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}

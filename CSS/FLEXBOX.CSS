@@ -1,0 +1,32 @@
+#a1{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+#a2{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+#a3{
+    background-color:brown;
+    height: 100px;
+    width: 100px;
+}
+#a4{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
+div{
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+}
+#outer{
+    height: 300px;
+    width: 800px;
+    border-width: 4PX;
+    display: flex;
+    flex-direction: row-reverse;
+}

@@ -1,0 +1,22 @@
+div{
+    border-top: 5px solid black;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    transition: all 2s ease ;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    background-color: blue;
+    
+}
+div:hover{
+    transform: rotate(360deg);
+    transform: translate(100px) scale(2);
+    background-color: chocolate;
+
+}
+div:active{
+    transform: skew(30deg);
+    background-color: brown;
+}

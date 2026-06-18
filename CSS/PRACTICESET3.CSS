@@ -1,0 +1,28 @@
+#a1{
+    height: 100px;
+    width: 100 px;
+    background-color: green;
+    border-radius: 50%;
+}
+#a2{
+    height: 50px;
+    width: 1000px;
+    border: 5px solid white;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+}
+body{
+    background-color: blue;
+}
+#a3{
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+a{
+    margin-right: 120px;
+}
+button{
+    background-color: orange;
+    color: white;
+}

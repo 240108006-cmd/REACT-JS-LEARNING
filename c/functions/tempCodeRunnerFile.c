@@ -1,1 +1,0 @@
-factorial(r)*factorial(n-r)
